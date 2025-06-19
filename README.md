@@ -16,3 +16,5 @@ This project demonstrates how keylogging works by capturing keyboard input using
 - Listens for keyboard input.
 - Logs each key to a file called `keyfile.txt`.
 - Handles regular characters and skips over special keys (with error message).
+
+**Disclaimer**: Unauthorized use of keyloggers is illegal. This program is strictly for ethical and educational purposes.
